@@ -17,3 +17,6 @@ Me encontre aqui 🌎
 <a href="https://www.facebook.com/Natanaell.Aguiar/" rel="nofollow">Facebook</a>
 <br>
 <a href="https://www.linkedin.com/in/natanael-oliveira-aguiar/" rel="nofollow">Linkedin</a>
+
+![Natanael Oliveira github stats](https://github-readme-stats.vercel.app/api?username=natanael-aguiar&show_icons=true&hide_border=true)
+
