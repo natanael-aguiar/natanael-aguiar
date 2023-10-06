@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hello, my name is Natanael Oliveira!👋<br>PHP Developer<br>WordPress Specialist<br>Laravel Developer<br>Tech Lead at PYXYS Digital Intelligence<br>
+Hello, my name is Natanael Oliveira!👋
+
+✨PHP Developer<br>
+✨Laravel Developer<br>
+✨WordPress Specialist<br>
+✨Tech Lead at PYXYS Digital Intelligence<br>
 
 
 ## 🌎 Meet me here:
@@ -8,5 +13,3 @@ Hello, my name is Natanael Oliveira!👋<br>PHP Developer<br>WordPress Specialis
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=natanael-aguiar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=natanael-aguiar&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natanael-aguiar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
