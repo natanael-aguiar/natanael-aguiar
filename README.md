@@ -1,22 +1,12 @@
-### Olá, me chamo Natanael Oliveira!👋
+# 💫 About Me:
+Hello, my name is Natanael Oliveira!👋<br>PHP Developer<br>WordPress Specialist<br>Laravel Developer<br>Tech Lead at PYXYS Digital Intelligence<br>
 
-Desesenvolvedor PHP
-<br>
-Especialista WordPress
-<br>
-Desenvolvedor Laravel
-<br>
-Tech Lead PYXYS Inteligência Digital
 
-Me encontre aqui 🌎
-<br>
-<a href="https://hubbletech.com.br" rel="nofollow">Site</a>
-<br>
-<a href="https://www.instagram.com/natan.kamui/" rel="nofollow">Instagram</a>
-<br>
-<a href="https://www.facebook.com/Natanaell.Aguiar/" rel="nofollow">Facebook</a>
-<br>
-<a href="https://www.linkedin.com/in/natanael-oliveira-aguiar/" rel="nofollow">Linkedin</a>
+## 🌎 Meet me here:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Natanaell.Aguiar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/natan.kamui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natanael-oliveira-aguiar) 
 
-![Natanael Oliveira github stats](https://github-readme-stats.vercel.app/api?username=natanael-aguiar&show_icons=true&hide_border=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=natanael-aguiar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=natanael-aguiar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=natanael-aguiar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
