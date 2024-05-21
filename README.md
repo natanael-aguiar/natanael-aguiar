@@ -1,15 +1,28 @@
-<h2 align="left">Hello, my name is Natanael Oliveira!👋</h2>
+<h2 align="left">Hello, I'm Natanael Oliveira!👋</h2>
+
+###
+
+<p align="left">Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast dedicated to creating innovative solutions and driving organizational success.</p>
 
 ###
 
 <p align="left">✨PHP Developer<br>✨Laravel Developer<br>✨WordPress Specialist<br>✨Node.JS Developer<br>✨JavaScript Developer<br>😎And a ton of other cool technologies out there<br>❤️I am currently Tech Lead at PYXYS Digital Intelligence</p>
-<p align="center">🧑‍💻 As a Technical Leader, my mission is to provide innovative and strategic technological solutions, driving organizational success through effective leadership and the development of talented teams.</p>
+
+###
+
+<p align="left">🧑‍💻 I currently serve as the Tech Lead at PYXYS Digital Intelligence, where I lead projects and mentor teams to deliver high-quality, scalable solutions.</p>
+
+###
+<p align="left">As a Technical Leader, my mission is to</p>
+
+###
+<p align="left">🔹 Provide innovative and strategic technological solutions.<br>🔹 Drive organizational success through effective leadership.<br>🔹 Foster the development of talented teams.<br>🔹 Continuously explore and implement emerging technologies.</p>
 
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natanael-aguiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=natanael-aguiar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natanael-aguiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
