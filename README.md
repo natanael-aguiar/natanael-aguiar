@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨PHP Developer<br>✨Laravel Developer<br>✨WordPress Specialist<br>✨Node.JS Developer<br>✨JavaScript Developer<br>😎And a ton of other cool technologies out there<br>❤️Explorer of Cutting-Edge Technologies</p>
+<p align="left">✨ PHP Developer<br>✨ Laravel Developer<br>✨ WordPress Specialist<br>✨ Node.JS Developer<br>✨ JavaScript Developer<br>❤️ Explorer of Cutting-Edge Technologies</p>
 
 ###
 
